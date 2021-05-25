@@ -1,0 +1,2 @@
+# ORB_SLAM2_with_navigation
+kinect基于ORB_SLAM2的稠密地图机器人路径规划
